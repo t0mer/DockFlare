@@ -1,4 +1,4 @@
-![DockFlareBanner](images/bannertr.png)
+![DockFlareBanner](https://raw.githubusercontent.com/t0mer/DockFlare/stable/images/bannertr.png)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ChrispyBacon-dev/DockFlare)
 [![OS](https://img.shields.io/badge/os-linux%20%7C%20windows%20%7C%20macos-brightgreen)]()
 [![CPU Architectures](https://img.shields.io/badge/CPU-x86_64%20%7C%20arm64-brightgreen)](https://en.wikipedia.org/wiki/Central_processing_unit)
@@ -55,7 +55,7 @@ DockFlare simplifies Cloudflare Tunnel and Zero Trust Access policy management b
 
 ## 🖼️ Web UI Preview
 
-![Web UI example](images/status_web.png)
+![Web UI example](https://raw.githubusercontent.com/t0mer/DockFlare/stable/images/status_web.png)
 
 ---
 
@@ -68,7 +68,7 @@ DockFlare simplifies Cloudflare Tunnel and Zero Trust Access policy management b
 - Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
 - Cloudflare Account with:
   - API Token with Account:Cloudflare Tunnel:Edit, Account:Account Settings:Read, Account:Access: Apps and Policies:Edit, Zone:Zone:Read, Zone:DNS:Edit
-  ![Cloudflare API](images/cf.png)
+  ![Cloudflare API](https://raw.githubusercontent.com/t0mer/DockFlare/stable/images/cf.png)
   *(Note: Account Settings Read is planned for future features, not strictly required for current core functionality.)*
   - Account ID (found in Cloudflare Dashboard → Overview)
   - Zone ID (found in Cloudflare Dashboard → Overview for your primary domain)
@@ -187,7 +187,7 @@ To help you get started immediately, a pre-built, detailed Grafana dashboard is 
 <details>
 <summary><b>Grafana Dashboard Example</b></summary>
 
-![Grafana Dashboard Example](images/grafana_dashboard_example.png)
+![Grafana Dashboard Example](https://raw.githubusercontent.com/t0mer/DockFlare/stable/images/grafana_dashboard_example.png)
 </details>
 <br>
 
